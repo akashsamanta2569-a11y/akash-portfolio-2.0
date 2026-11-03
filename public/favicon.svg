@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="18" fill="#1C1B24"/>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#7C6EE6" stroke-width="2.5" stroke-dasharray="4 3" opacity="0.45"/>
+  <text x="32" y="39" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="26" fill="#FAFAF8" text-anchor="middle" letter-spacing="-1">AS</text>
+  <circle cx="45" cy="40" r="3.5" fill="#8F82EC"/>
+</svg>
+
